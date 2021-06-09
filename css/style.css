@@ -297,8 +297,9 @@ padding: 20px 10px;
   color: #d0e4ff;
   margin-bottom: 30px;
 }
-.footer.menu{
+.footer-menu{
   width: 165px;
+margin-right: 10px;
 }
 .footer__list{
   list-style: none;
